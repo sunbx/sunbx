@@ -2,7 +2,7 @@
 ### Hello, folks! 👋 My name is Baixin and I am a creative software developer:
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunbx" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunbx" herf="https://www.baidu.com"/>
 
 
 😄I'm glad you clicked on my page
