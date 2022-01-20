@@ -2,7 +2,6 @@
 ### Hello, folks! 👋 My name is Baixin and I am a creative software developer:
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunbx" herf="https://www.baidu.com"/>
 
 
 😄I'm glad you clicked on my page
@@ -13,3 +12,5 @@
 - 📫 You can contact me at **283122529@qq.com**
 - ⚡ I hope what I have written will help you
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunbx)](https://github.com/anuraghazra/github-readme-stats)
