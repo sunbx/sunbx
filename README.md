@@ -13,4 +13,4 @@
 - ⚡ I hope what I have written will help you
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunbx)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunbx)](https://github.com/sunbx)
